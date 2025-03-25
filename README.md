@@ -41,6 +41,8 @@ A continuación detallaré los elementos que la componen:
 $:Este simbolo indica que la subcadena anterior es el final de la cadena, en este caso, la cadena debe terminar con 'b1'.
 
 -Automata 
+
+A continuación se encuentra el DFA contruido para el analísis del lenguaje que se me designó.
 ![automata](automata.PNG)
 
 
